@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Times New Roman', sans-serif;
-    font-size: 16px;
+    font-size: 19px;
 }
 h1 {
     margin-bottom: 0;
@@ -10,10 +10,10 @@ h1 {
 }
 .testo {
     text-decoration: underline;
-    font-size: 17px;
+    font-size: 20px;
 }
 p {
-    font-size: 17px;
+    font-size: 20px;
 }
 .container {
     margin-top: 15px;
