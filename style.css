@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Times New Roman', sans-serif;
-    font-size: 19px;
+    font-size: 20px;
 }
 h1 {
     margin-bottom: 0;
@@ -44,9 +44,6 @@ p {
 .azzurro {
     color: rgb(39, 167, 241);
 }
-/* .giallo {
-    color: rgb(219, 181, 11);
-} */
 img {
     margin-bottom: 10px;
     width: 95%;
@@ -59,6 +56,3 @@ img {
 .box.coloratoAzzurro:hover {
     background-color: #b3e5fc8e; 
 }
-/* .box.coloratoGiallo:hover {
-    background-color: #fcf5b386; 
-} */
